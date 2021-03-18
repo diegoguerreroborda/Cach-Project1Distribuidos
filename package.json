@@ -1,0 +1,22 @@
+{
+  "name": "cach-project1distribuidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoguerreroborda/Cach-Project1Distribuidos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoguerreroborda/Cach-Project1Distribuidos/issues"
+  },
+  "homepage": "https://github.com/diegoguerreroborda/Cach-Project1Distribuidos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
